@@ -15,5 +15,5 @@ Download and put in /usr/share/florence/styles
 
 ##styles##
 
-<b>flat</b>
+<b>flat</b><br>
 minimalistic, light, flat theme (see screenshot).
