@@ -1,12 +1,19 @@
 florence-styles
 ===============
 
--what-
+##what##
 Styles / Themes for the Florence virtual keyboard.
 
--why-
+##why##
 Standard customization settings and styles didnt work for me on Rasbian Wheezy.
+Def files arent read, gradients work sporadically.
 So I created static SVG images for the buttons.
 
--howto-
+##howto##
 Download and put in /usr/share/florence/styles
+
+
+##styles##
+
+<b>flat</b>
+minimalistic, light, flat theme (see screenshot).
